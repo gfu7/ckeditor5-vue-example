@@ -9,9 +9,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-editor-classic": "^38.0.1",
+    "@ckeditor/ckeditor5-essentials": "^38.0.1",
+    "@ckeditor/ckeditor5-paragraph": "^38.0.1",
+    "@ckeditor/ckeditor5-theme-lark": "^38.0.1",
+    "@ckeditor/ckeditor5-vue": "^5.1.0",
+    "@ckeditor/vite-plugin-ckeditor5": "^0.1.1",
     "vue": "^3.2.47"
   },
   "devDependencies": {
+    "@types/node": "^20.2.3",
     "@vitejs/plugin-vue": "^4.1.0",
     "typescript": "^5.0.2",
     "vite": "^4.3.2",
